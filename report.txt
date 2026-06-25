@@ -1,0 +1,8 @@
+File Organizer Report
+
+Image files: 0
+PDF files: 0
+Spreadsheet files: 0
+Markdown files: 0
+Unknown files: 0
+Total files: 0
