@@ -29,3 +29,37 @@ python file_organizer.py
 - 表格文件（.csv、.xlsx） → spreadsheets
 - Markdown 文件（.md） → markdown
 - 其他文件 → unknown
+  
+## 项目结构
+
+file-organizer/
+
+├── file_organizer.py
+
+├── report.txt
+
+├── README.md
+
+├── review.md
+
+├── screenshots/
+
+└── test-files/
+
+## 运行结果示例
+
+```text
+
+pdfs: 2
+
+images: 2
+
+spreadsheets: 2
+
+markdown: 1
+
+unknown: 1
+
+## 项目总结
+
+This project organizes files automatically based on file type and generates a structured report. 
